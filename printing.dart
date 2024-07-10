@@ -1,4 +1,4 @@
 // Print The Output :
-void main(){
-print("Hello Jihad");
+void main() {
+  print("Hello Jihad fardin");
 }
